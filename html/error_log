@@ -1,0 +1,332 @@
+[29-Nov-2021 23:20:30 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:20:30 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:20:30 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:20:30 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:20:30 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:20:35 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:20:35 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:20:35 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:20:35 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:20:35 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:21:09 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:21:09 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:21:09 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:21:09 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:21:09 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:21:20 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:21:20 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:21:20 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:21:20 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:21:20 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:35:34 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:35:34 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:35:34 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:35:34 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:35:34 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:36:45 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:36:45 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:36:45 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:36:45 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:36:45 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:36:49 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:36:49 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:36:49 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:36:49 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:36:49 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:37:01 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:37:01 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:37:01 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:37:01 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:37:01 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:37:15 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:37:15 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:37:15 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:37:15 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:37:15 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:38:12 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:12 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:12 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:12 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:38:12 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:38:20 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:20 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:20 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:20 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:38:20 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:38:37 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:37 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:37 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:37 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:38:37 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:38:45 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:45 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:45 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:38:45 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:38:45 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:40:05 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:40:05 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:40:05 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 61
+[29-Nov-2021 23:40:05 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 62
+[29-Nov-2021 23:40:05 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 64
+[29-Nov-2021 23:40:42 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 68
+[29-Nov-2021 23:40:42 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 68
+[29-Nov-2021 23:40:42 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 68
+[29-Nov-2021 23:40:42 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:40:42 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 71
+[29-Nov-2021 23:41:04 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 68
+[29-Nov-2021 23:41:04 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 68
+[29-Nov-2021 23:41:04 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 68
+[29-Nov-2021 23:41:04 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:41:04 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 71
+[29-Nov-2021 23:43:46 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:43:46 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:43:46 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:43:46 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:43:46 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 72
+[29-Nov-2021 23:44:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:44:21 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:44:21 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:44:21 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:44:51 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:44:51 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:44:51 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:46:50 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:46:50 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:46:50 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:46:50 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:46:50 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 72
+[29-Nov-2021 23:48:52 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:48:52 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:48:52 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:48:52 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:48:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 72
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 104
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 104
+[29-Nov-2021 23:50:58 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 113
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:52:38 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 112
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:53:26 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 112
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:54:24 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 114
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:56:59 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:58:10 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:58:22 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:59:12 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[29-Nov-2021 23:59:21 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:03:42 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:12:31 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:18:32 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:18:32 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:19:30 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:21:06 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:21:35 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:30:04 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:31:07 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:31:22 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:33:05 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:33:17 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:36:55 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:39:20 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:40:25 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:40:39 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:41:28 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:48:56 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:49:01 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:52:00 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home2/fragga90/public_html/html/gerenciamento.php on line 103
+[30-Nov-2021 00:52:07 America/Fortaleza] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/fragga90/public_html/html/gerenciamento.php on line 138
+[30-Nov-2021 15:16:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 15:16:10 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 15:16:10 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 15:16:10 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 15:16:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/fragga90/public_html/html/gerenciamento.php:72
+Stack trace:
+#0 {main}
+  thrown in /home2/fragga90/public_html/html/gerenciamento.php on line 72
+[30-Nov-2021 15:18:07 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 15:18:07 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 15:18:07 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 15:18:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 15:18:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/fragga90/public_html/html/gerenciamento.php:72
+Stack trace:
+#0 {main}
+  thrown in /home2/fragga90/public_html/html/gerenciamento.php on line 72
+[30-Nov-2021 19:15:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 19:15:30 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 19:15:30 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 19:15:30 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 19:15:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/fragga90/public_html/html/gerenciamento.php:72
+Stack trace:
+#0 {main}
+  thrown in /home2/fragga90/public_html/html/gerenciamento.php on line 72
+[30-Nov-2021 21:30:50 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fragga90/public_html/html/gerenciamento.php on line 69
+[30-Nov-2021 21:30:50 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 21:30:50 America/Fortaleza] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 21:30:50 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/fragga90/public_html/html/gerenciamento.php on line 70
+[30-Nov-2021 21:30:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/fragga90/public_html/html/gerenciamento.php:72
+Stack trace:
+#0 {main}
+  thrown in /home2/fragga90/public_html/html/gerenciamento.php on line 72

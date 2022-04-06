@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <title>Contato</title>
+    <link rel="icon" type="image/png" sizes="240x240" href="../assets/img/Icone.png">
+	
+    <!--  Index CSS -->
+	<link rel="stylesheet" href="../assets/css/Index.css">
+	
+	<!--  Responsivo CSS -->
+	<link rel="stylesheet" href="../assets/css/Responsive.css">
+	
+	<!--  Bootstrap CSS -->
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+	
+	<!--  Login CSS -->
+	<link rel="stylesheet" href="../assets/css/Login-Form-Clean.css">
+    <link rel="stylesheet" href="../assets/css/Login.css">
+	
+	<!--  Contato CSS -->
+	<link rel="stylesheet" href="../assets/css/ebs-contact-form-1.css">
+    <link rel="stylesheet" href="../assets/css/ebs-contact-form.css">
+	
+	<!--  Navegation CSS -->
+	<link rel="stylesheet" href="../assets/css/Advanced-NavBar---Multi-dropdown.css">
+	<link rel="stylesheet" href="../assets/css/Navigation-Clean.css">
+	
+	<!--  Fontes CSS -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap">
+
+    <link rel="stylesheet" href="../assets/css/robota-noncommercialregular.css">
+	<link rel="stylesheet" href="../assets/css/Arial%20stylesheet.css">
+	<link rel="stylesheet" href="../assets/css/arialregular.css">
+	<link rel="stylesheet" href="../assets/css/Poppins-Bold.css">
+    <link rel="stylesheet" href="../assets/css/Poppins-Medium.css">
+    <link rel="stylesheet" href="../assets/css/Poppins-Regular.css">
+    <link rel="stylesheet" href="../assets/css/Poppins-SemiBold.css">
+    <link rel="stylesheet" href="../assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/fonts/ionicons.min.css">
+	
+	<!--  Footer CSS -->
+    <link rel="stylesheet" href="../assets/css/Footer-Basic.css">
+	
+	<!--  Animações CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css">
+</head>
+<script>
+    
+function mascara(o,f){
+    v_obj=o
+    v_fun=f
+    setTimeout("execmascara()",1)
+}
+function execmascara(){
+    v_obj.value=v_fun(v_obj.value)
+}
+function mtel(v){
+    v=v.replace(/\D/g,""); //Remove tudo o que não é dígito
+    v=v.replace(/^(\d{2})(\d)/g,"($1) $2"); //Coloca parênteses em volta dos dois primeiros dígitos
+    v=v.replace(/(\d)(\d{4})$/,"$1-$2"); //Coloca hífen entre o quarto e o quinto dígitos
+    return v;
+}
+function id( el ){
+	return document.getElementById( el );
+}
+window.onload = function(){
+	id('telefone').onkeyup = function(){
+		mascara( this, mtel );
+	}
+}
+
+</script>
+
+<body>
+    
+    <nav class="navbar navbar-light navbar-expand-md navigation-clean" style="box-shadow: 0px 0px 7px;">
+        <div class="container"><img class="navbar-logo" src="../assets/img/FRAG_Logo.png" style="width: 150px;"><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse text-start" id="navcol-2">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item"><a class="nav-link" href="../index.html" style="font-size: 18px;font-family: robota-noncommercialregular;color: #880606;font-weight: bold;">EMPRESA</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="#"" style="font-size: 18px;font-family: robota-noncommercialregular;color: #814bc9;font-weight: bold;">CONTATO</a></li>
+                    <li class="nav-item"><a class="nav-link" href="login.html" style="font-size: 18px;font-family: robota-noncommercialregular;color: #417f54;font-weight: bold;">LOGIN</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container" style="background-image: url(../assets/img/fundo2.png);background-position: left;background-repeat: no-repeat;background-size: 700px;padding-bottom: 50px;padding-top: 50px;">
+	<div>
+        <div class="row text-start">
+            <div class="col" style="background: rgba(252,252,252,0.85); padding-bottom: 15px;  padding-top: 10px;">
+			
+                <h1 class="text-center" style="font-family: robota-noncommercialregular;font-weight: bold;color: rgb(150,74,255);">CONTATO</h1>
+
+                <form action="../php/enviar_email" name="form_contato" method="post" font-family: Poppins, sans-serif;>
+                
+               
+                    <div class="form-group mb-3"><label class="form-label" style="font-family: Poppins, sans-serif;font-weight: bold;">Nome</label><input class="form-control"  name="nome" type="text" required placeholder="Digite seu nome para contato"></div>
+                    <div class="form-group mb-3"><label class="form-label" style="font-family: Poppins, sans-serif;font-weight: bold;">E-mail </label><input class="form-control" name="email" type="email" required placeholder="Digite seu e-mail"></div>
+                    <div class="form-group mb-3"><label class="form-label" style="font-family: Poppins, sans-serif;font-weight: bold;">Telefone</label><input class="form-control" name="telefone" id="telefone" maxlength="15" type="text" required placeholder="Digite seu número de telefone"></div>
+                    <div class="form-group mb-3"><label class="form-label" style="font-family: Poppins, sans-serif;font-weight: bold;">Mensagem</label><textarea class="form-control" name="mensagem" type="text" required placeholder="Digite sua mensagem aqui" rows="5"></textarea></div>
+                    <input type="reset" class="btn btn-light" style="background: rgb(170,63,255);" value="Limpar">
+                    <button class="btn btn-light" style="background: rgb(170,63,255);">Enviar</button>
+                </form>
+				
+			
+				</div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer-basic" id="idfooter">
+	<div>
+        <div class="social">
+			<a href="https://www.youtube.com/channel/UC31moEi7FNsgVhbgzC19EhA" target="_blank"><i class="icon ion-social-youtube" style="color: #de1616;"></i></a>
+			<a href="https://twitter.com/startupfrag" target="_blank"><i class="icon ion-social-twitter" style="color: rgb(25,185,237);"></i></a>
+			<a href=" https://www.instagram.com/startupfrag/" target="_blank"><i class="icon ion-social-instagram" style="color: #7142ac;"></i></a>
+			<a href="https://www.facebook.com/profile.php?id=100074268226322" target="_blank"><i class="icon ion-social-facebook" style="color: rgb(54,139,79);"></i></a>
+		</div>
+        <div style="text-align: center;padding-bottom: 25px;"><img src="../assets/img/FRAG_Logo.png" style="width: 200px;"></div>
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="Termos_de_Uso.html">Termos de Uso</a></li>
+            <li class="list-inline-item"><a href="Politica_de_Cookies.html" >Politica de Cookies</a></li>
+            <li class="list-inline-item"><a href="Politica_de_Privacidade.html" >Política de Privacidade<br></a></li>
+        </ul>
+        <p class="copyright">© 2021 FRAG. Todos os direitos reservados.<br></p>
+	</div>
+    </footer>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../assets/js/Advanced-NavBar---Multi-dropdown.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js"></script>
+    <script src="../assets/js/Simple-Slider.js"></script>
+</body>
+
+</html>
