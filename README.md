@@ -1,4 +1,4 @@
-<img src="assets/Mobile_Exemple.png" align="right" width="500px">
+<img src="assets/Mobile_Exemple.png" align="right" width="400px">
 
 # TCC - Curso Técnico em Desenvolvimento de Sistemas
 Esse trabalho de conclusão de curso foi feito por mim e meus colegas Giovanni, Renato e Ana Clara.<br><br>
